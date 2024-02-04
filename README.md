@@ -61,12 +61,12 @@ https://cbsakademi.ibb.istanbul/gis-hackathon/
 -Esri Young Scholar
 
 
-## Contact
+## Contact 📌
 
 Feel free to reach out to me for any collaboration, feedback. 
 
-- Email: fatma_elik@hotmail.com
-- LinkedIn: [Your LinkedIn Profile]
-- medium: [[Your Twitter Handle](https://medium.com/@fatmaelikf)]
+- 📇 Email: fatma_elik@hotmail.com
+- 👔 LinkedIn: https://www.linkedin.com/in/fatma-elik-399141b3/
+- 💻 medium: https://medium.com/@fatmaelikf
 
 Thanks for checking out my project!
