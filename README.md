@@ -12,8 +12,8 @@ I earned my Bachelor's in Geophysical Engineering from Istanbul Technical Univer
 The objective of my master's thesis, titled **Earthquake Damage Detection with Satellite Imagery and Deep Learning Approaches: A Case Study of the February 2023 Kahramanmaraş, Türkiye Earthquake Sequence**, was to investigate the potential of various deep learning techniques in recognizing structurally compromised buildings post-earthquake. Integrating remote sensing, computer vision, and earth observation within the realm of geophysics, this research aimed to underscore the importance of rapid intervention in critical situations.
 
 ## Skills 🎆
--Machine Learning
--Deep Learning
+- Machine Learning
+- Deep Learning
 - Computer Vision
 - Spatial Data Science
 - Satellite Image Processing
