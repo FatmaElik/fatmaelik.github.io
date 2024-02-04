@@ -70,7 +70,7 @@ https://www.insicongress.com/arsiv/
 
 Feel free to reach out to me for any collaboration, feedback. 
 
-- 📇 Email: fatma_elik@hotmail.com
+- 📇 [Email](fatma_elik@hotmail.com)
 - 👔 LinkedIn: https://www.linkedin.com/in/fatma-elik-399141b3/
 - 💻 medium: https://medium.com/@fatmaelikf
 
