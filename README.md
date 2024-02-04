@@ -27,7 +27,7 @@ The objective of my master's thesis, titled **Earthquake Damage Detection with S
 
 ## Projects
 - **EARTHQUAKE PARAMETER PREDICTION WITH LINEAR REGRESSION**
-- https://medium.com/analytics-vidhya/earthquake-parameter-prediction-withlinear-regression-c86e5abff79f
+ https://medium.com/analytics-vidhya/earthquake-parameter-prediction-withlinear-regression-c86e5abff79f
 - **TUBİTAK-2210/D - GRADUATE SCHOLARSHIP PROGRAM FOR DOMESTIC INDUSTRY**
 - I am conducting my thesis research on the Detection of Earthquake Damages Using Satellite Images and Deep Learning Approaches in collaboration with
 ESRI Turkey.
