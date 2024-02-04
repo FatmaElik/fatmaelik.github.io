@@ -30,6 +30,7 @@ The objective of my master's thesis, titled **Earthquake Damage Detection with S
 
 I am conducting my thesis research on the Detection of Earthquake Damages Using Satellite Images and Deep Learning Approaches in collaboration with
 ESRI Turkey.
+
 - **2nd Place - IEEE GRSS Earth at Risk Map Contest:**
 
 Achieved global recognition as the 2nd place winner for the comprehensive earthquake activity map in Kahramanmaraş, Turkey.
@@ -37,7 +38,8 @@ Achieved global recognition as the 2nd place winner for the comprehensive earthq
 https://pollunit.com/lightboxes/grssearthatrisk?embed=1&option_id=3715076
 
 - **2nd Place - BAU HUB DEPREM & AFET YÖNETİMİ TEKNOLOJİ GİRİŞİMLERİ DESTEK PROGRAMI (BAU HUB -DAYT/DP)**
- Recognized as the 2nd place winner in the BAU HUB Earthquake and Disaster Management Technology Ventures Support Program.
+
+Recognized as the 2nd place winner in the BAU HUB Earthquake and Disaster Management Technology Ventures Support Program.
 
  https://bau-hub.com/bau-hub-deprem-afet-yonetimi-teknoloji-girisimleri-destek-programi-bau-hub-dayt-dp/#pll_switcher
 
@@ -46,9 +48,15 @@ https://pollunit.com/lightboxes/grssearthatrisk?embed=1&option_id=3715076
   
  https://medium.com/analytics-vidhya/earthquake-parameter-prediction-withlinear-regression-c86e5abff79f
 
-- **Afetbot Hackathon Idea -A Disaster Management Chatbot Designed To Be Integrated With Istanbul Metropolitan Municipality's Mobile Application**
+- **Making Dynamic Corona Virus Case Map with Python**
+
+ https://medium.com/bilişim-hareketi/python-ile-dinamik-corona-virüs-vaka-haritası-yapımı-48598485cd42?sk=e5c802c56c1b554d299c13e938b29868
+
+- **Afetbot Hackathon Idea - A Disaster Management Chatbot Designed To Be Integrated With Istanbul Metropolitan Municipality's Mobile Application**
 
 https://cbsakademi.ibb.istanbul/gis-hackathon/
+
 ![](https://cbsakademi.ibb.istanbul/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-18-at-12.04.01.jpeg)
+
 -Esri Young Scholar
 
