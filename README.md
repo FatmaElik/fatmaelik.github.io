@@ -33,6 +33,6 @@ I am conducting my thesis research on the Detection of Earthquake Damages Using 
 ESRI Turkey.
 - **AFETBOT HACKATHON IDEA -A DISASTER MANAGEMENT CHATBOT DESIGNED TO BE INTEGRATED WITH ISTANBUL METROPOLITAN MUNICIPALITY'S MOBILE APPLICATION**
   https://cbsakademi.ibb.istanbul/gis-hackathon/
-  ![](https://cbsakademi.ibb.istanbul/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-18-at-12.04.01.jpeg)
-  -ESRI YOUNG SCHOLAR
+![](https://cbsakademi.ibb.istanbul/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-18-at-12.04.01.jpeg)
+-ESRI YOUNG SCHOLAR
 
