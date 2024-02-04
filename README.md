@@ -60,7 +60,12 @@ https://cbsakademi.ibb.istanbul/gis-hackathon/
 
 -Esri Young Scholar
 
+## Publications
 
+- Detection Of Earthquake Damages With Satellite Imagery And Deep Learning Approaches Detection Of Earthquake Damages With Satellite Imagery And Deep Learning Approaches İn Iv. International Science And Innovation Congress (INSI 2023)
+
+https://www.insicongress.com/arsiv/
+  
 ## Contact 📌
 
 Feel free to reach out to me for any collaboration, feedback. 
