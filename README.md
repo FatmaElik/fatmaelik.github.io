@@ -66,12 +66,12 @@ https://cbsakademi.ibb.istanbul/gis-hackathon/
 
 https://www.insicongress.com/arsiv/
   
-## Contact 📌
+## Contacts 📌
 
-Feel free to reach out to me for any collaboration, feedback. 
+Feel free to reach out to me for any collaboration, or feedback. 
 
 - 📇 [Email](fatma_elik@hotmail.com)
 - 👔 [LinkedIn](https://www.linkedin.com/in/fatma-elik-399141b3/)
 - 💻 [medium](https://medium.com/@fatmaelikf)
 
-Thanks for checking out my project!
+Thanks for checking out my projects!
